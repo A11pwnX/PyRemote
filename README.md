@@ -41,7 +41,7 @@ However, PyRemote is **not encrypted** and should only be used in safe, local ne
 
 Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/PyRemote.git
+git clone https://github.com/A11pwnX/PyRemote.git
 cd PyRemote
 ```
 
