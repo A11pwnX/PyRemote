@@ -45,9 +45,6 @@ git clone https://github.com/A11pwnX/PyRemote.git
 cd PyRemote
 ```
 
-# PyRemote
-
-PyRemote requires only Python 3.
 
 ---
 
