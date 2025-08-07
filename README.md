@@ -133,11 +133,14 @@ python3 PyRemote.py --mode client --server-ip 192.168.1.10 -p 2222
 ```
 PyRemote/
 │
-├── PyRemote-server.py    # Standalone server
-├── PyRemote-client.py    # Standalone client
-└── PyRemote.py           # Combined server & client
+├── PyRemote-server.py    # Serveur autonome
+├── PyRemote-client.py    # Client autonome
+├── PyRemote.py           # Serveur & client combinés
+└── Misc/
+    ├── PyRemote-client-notty.py
+    ├── PyRemote-server-notty.py
+    └── PyRemote-server-ssh.py
 ```
-
 ---
 
 ## Disclaimer
